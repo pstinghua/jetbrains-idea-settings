@@ -4,17 +4,61 @@
       <key-repeat enabled="true" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>variables</entry>
+      </history-search>
+    </history>
+  </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
-    <jumps />
+    <filemarks>
+      <file name="/opt/playground/holidayrequest/src/main/kotlin/org/flowable/main.kt" timestamp="1586747504732">
+        <mark key="'" line="41" column="34" />
+        <mark key="[" line="66" column="5" />
+        <mark key="]" line="67" column="43" />
+        <mark key="." line="67" column="42" />
+        <mark key="^" line="67" column="43" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="12" column="4" filename="/opt/playground/holidayrequest/src/main/kotlin/org/flowable/main.kt" />
+      <jump line="41" column="34" filename="/opt/playground/holidayrequest/src/main/kotlin/org/flowable/main.kt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhcmlhYmxlc1siYXBwcm92ZWQiXSA9IGFwcHJvdmVkCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhcmlhYmxlc1siYXBwcm92ZWQiXSA9IGFwcHJvdmVkCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>val</text>
+      </register>
+      <register name="/" type="4">
+        <text>variables</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>variables</last-search>
+      <last-offset />
+      <last-pattern>variables</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
