@@ -34,10 +34,20 @@
         <mark key="." line="67" column="42" />
         <mark key="^" line="67" column="43" />
       </file>
+      <file name="/opt/playground/kotlin-demo/src/main/kotlin/main.kt" timestamp="1589356366923">
+        <mark key="'" line="357" column="0" />
+        <mark key="[" line="380" column="1" />
+        <mark key="]" line="381" column="0" />
+        <mark key="^" line="381" column="0" />
+        <mark key="." line="381" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="4" filename="/opt/playground/holidayrequest/src/main/kotlin/org/flowable/main.kt" />
       <jump line="41" column="34" filename="/opt/playground/holidayrequest/src/main/kotlin/org/flowable/main.kt" />
+      <jump line="206" column="0" filename="/opt/playground/kotlin-demo/src/main/kotlin/main.kt" />
+      <jump line="279" column="0" filename="/opt/playground/kotlin-demo/src/main/kotlin/main.kt" />
+      <jump line="357" column="0" filename="/opt/playground/kotlin-demo/src/main/kotlin/main.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
